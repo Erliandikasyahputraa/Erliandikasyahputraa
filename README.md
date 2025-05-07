@@ -1,4 +1,8 @@
-<h2 align="center" style="color:#8B0000;">“In the face of overwhelming darkness, we must carve our own path.”</h2>
+
+<p align="center">
+  <img src="https://media1.tenor.com/m/7KTms42M9RUAAAAC/berserk-guts.gif" alt="Guts Sadness" />
+</p>
+<h1 align="center" style="color:#8B0000;">“In the face of overwhelming darkness, we must carve our own path.”</h1>
 <p align="center" style="color:#C0C0C0;">
   A relentless developer from Indonesia — not just coding, but fighting through logic, bugs, and doubt. Like a lone swordsman, I battle through the chaos of the digital realm. ⚔️
 </p>
@@ -7,9 +11,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Mobile+Dev+%26+Web+Learner;Bug+Slayer+%7C+Black+Swordsman+in+the+Code+Realm;Walking+alone+through+the+logic+abyss" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://media1.tenor.com/m/7KTms42M9RUAAAAC/berserk-guts.gif" alt="Guts Sadness" />
-</p>
+
 
 ---
 
