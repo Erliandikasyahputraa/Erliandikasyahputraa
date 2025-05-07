@@ -12,7 +12,7 @@
 
 ---
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/c2/9d/fb/c29dfb3221249eb32670d00ddbfb395c.gif"  />
+<img align="right" height="150" src="https://i.pinimg.com/originals/c2/9d/fb/c29dfb3221249eb32670d00ddbfb395c.gif](https://media1.tenor.com/m/wxaQ78WDEREAAAAC/guts-berserk-banner.gif"  />
 
 ---
 
