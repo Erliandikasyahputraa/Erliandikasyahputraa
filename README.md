@@ -44,19 +44,25 @@
 ---
 
 <div align="left">
-  <a href="https://www.instagram.com/erliandikasyahputra/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=8B0000&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  <a href="https://www.instagram.com/erliandikasyahputra/" target="_blank" style="margin: 0 10px; text-decoration: none;">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" height="30" />
   </a>
-  <a href="https://discord.com/users/1280550815223779370" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=191970&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  <img width="12" />
+  <a href="https://discord.com/users/1280550815223779370" target="_blank" style="margin: 0 10px; text-decoration: none;">
+    <img src="https://img.icons8.com/fluency/48/discord-logo.png" alt="Discord" height="30" />
   </a>
-  <a href="mailto:syahputraerliandika@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=8B0000&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  <img width="12" />
+  <a href="mailto:syahputraerliandika@gmail.com" target="_blank" style="margin: 0 10px; text-decoration: none;">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail" height="30" />
   </a>
-  <a href="https://www.linkedin.com/in/erliandikasyahputra" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=191970&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  <img width="12" />
+  <a href="https://www.linkedin.com/in/erliandikasyahputra" target="_blank" style="margin: 0 10px; text-decoration: none;">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" height="30" />
   </a>
 </div>
+
+
+
 
 ---
 <picture style="display: flex; justify-content: center; align-items: center; margin-top: 20px;">
