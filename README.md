@@ -11,8 +11,7 @@
 </div>
 
 ---
-<img align="right" height="150" width="150" src="https://media1.tenor.com/m/GvD5iTIDo-sAAAAd/dog-berserk.gif" alt="Guts Berserk" />
-
+<img align="right" height="150" src="https://media1.tenor.com/m/GvD5iTIDo-sAAAAC/dog-berserk.gif?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Guts Berserk" />
 
 ---
 
