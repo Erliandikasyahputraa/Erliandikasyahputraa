@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/7KTms42M9RUAAAAC/berserk-guts.gif" alt="Signature" width="460" />
+  <img src="https://media1.tenor.com/m/7KTms42M9RUAAAAC/berserk-guts.gif" alt="signature" width="460" />
 </p>
 
 <h1 align="center">Erliandika Syahputra</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=640&lines=Software+%26+Web+Developer+from+Indonesia;I+turn+ideas+into+working+software;Full-Stack+%7C+Web+%7C+Mobile;Still+learning.+Always+building.+Never+stopping." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=900&color=8A2BE2&center=true&vCenter=true&width=600&lines=Software+%26+Web+Developer+%E2%80%94+Indonesia;I+build+things+that+actually+work.;Full-Stack+%7C+Web+%7C+Mobile;Still+learning.+Always+building." alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -26,59 +26,53 @@
   </a>
 </p>
 
----
+<br />
 
-## Who am I?
-
-Developer from Indonesia who genuinely enjoys the process of building things — the kind who reads error messages carefully, stays up debugging because *it almost works*, and gets unreasonably happy when something finally clicks.
-
-I build **web applications and software** that solve actual problems. Not just tutorials. Not just clones. Things that run, things that ship, things that matter.
-
-My stack shifts with the problem. Right now it leans heavily toward full-stack web — TypeScript, React, Next.js on the front; Node.js, PHP, and Laravel on the back. But the real skill isn't the stack. It's knowing how to think through a problem and deliver something that works.
-
-> *"Even if the work is hard and the path is long — keep moving."*  
-> — Lesson from Guts, applied to debugging 😤
-
----
-
-## What I work with
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" title="TypeScript" alt="TypeScript" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" title="JavaScript" alt="JavaScript" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" title="React" alt="React" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="32" title="Next.js" alt="Next.js" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32" title="Node.js" alt="Node.js" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="32" title="PHP" alt="PHP" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="32" title="Laravel" alt="Laravel" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="32" title="Tailwind CSS" alt="Tailwind CSS" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" title="MySQL" alt="MySQL" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" title="Git" alt="Git" />
+<p align="center">
+Developer from Indonesia.<br/>
+I build web apps and software — things that actually run, not just live in my head.<br/>
+<br/>
+Started with curiosity. Stayed because debugging at 2am somehow became my thing.<br/>
+Full-stack by necessity, detail-obsessed by habit.<br/>
+The stack changes. The drive doesn't.
 </p>
 
----
+<br/>
 
-## Activity
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
+
+<br/>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=erliandikasyahputraa&theme=tokyonight-duo&hide_border=true&date_format=j%20M%5B%20Y%5D"
+    src="https://streak-stats.demolab.com/?user=erliandikasyahputraa&theme=tokyonight-duo&hide_border=true"
     alt="GitHub Streak"
-    height="180"
+    height="175"
   />
 </p>
 
+<p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Erliandikasyahputraa/Erliandikasyahputraa/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Erliandikasyahputraa/Erliandikasyahputraa/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Erliandikasyahputraa/Erliandikasyahputraa/output/github-contribution-grid-snake.svg" />
 </picture>
+</p>
