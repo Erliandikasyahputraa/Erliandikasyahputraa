@@ -5,7 +5,7 @@
 <h1 align="center">Erliandika Syahputra</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=900&color=8A2BE2&center=true&vCenter=true&width=600&lines=Software+%26+Web+Developer+%E2%80%94+Indonesia;I+build+things+that+actually+work.;Full-Stack+%7C+Web+%7C+Mobile;Still+learning.+Always+building." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=900&color=8A2BE2&center=true&vCenter=true&width=600&lines=Software+%26+Web+Developer+from+Indonesia;I+build+things+that+actually+work.;Full-Stack+%7C+Web+%7C+Mobile;Still+learning.+Always+building." alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -29,12 +29,14 @@
 <br />
 
 <p align="center">
-Developer from Indonesia.<br/>
-I build web apps and software — things that actually run, not just live in my head.<br/>
+Developer from Indonesia who takes software seriously.<br/>
+I build web apps that actually run and solve real problems, not portfolio pieces.<br/>
 <br/>
-Started with curiosity. Stayed because debugging at 2am somehow became my thing.<br/>
-Full-stack by necessity, detail-obsessed by habit.<br/>
-The stack changes. The drive doesn't.
+The kind of person who stays up past 2am not because of a deadline,<br/>
+but because the bug is almost fixed and stopping now feels wrong.<br/>
+<br/>
+Full-stack by necessity. Detail-obsessed by habit.<br/>
+The stack adapts. The obsession stays.
 </p>
 
 <br/>
@@ -63,7 +65,7 @@ The stack changes. The drive doesn't.
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=erliandikasyahputraa&theme=tokyonight-duo&hide_border=true"
+    src="https://raw.githubusercontent.com/Erliandikasyahputraa/Erliandikasyahputraa/main/dist/streak.svg"
     alt="GitHub Streak"
     height="175"
   />
