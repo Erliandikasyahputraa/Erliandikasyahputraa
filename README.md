@@ -1,71 +1,86 @@
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/7KTms42M9RUAAAAC/berserk-guts.gif" alt="Guts Sadness" />
+  <a href="https://media1.tenor.com/m/7KTms42M9RUAAAAC/berserk-guts.gif">
+    <img src="https://media1.tenor.com/m/7KTms42M9RUAAAAC/berserk-guts.gif" alt="Signature" width="480" />
+  </a>
 </p>
-<h1 align="center" style="color:#8B0000;">“In the face of overwhelming darkness, we must carve our own path.”</h1>
-<p align="center" style="color:#C0C0C0;">
-  A relentless developer from Indonesia — not just coding, but fighting through logic, bugs, and doubt. Like a lone swordsman, I battle through the chaos of the digital realm. ⚔️
+
+<h2 align="center">Erliandika Syahputra</h2>
+
+<p align="center">
+  Software &amp; Web Developer &nbsp;·&nbsp; Indonesia
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Mobile+Dev+%26+Web+Learner;Bug+Slayer+%7C+Black+Swordsman+in+the+Code+Realm;Walking+alone+through+the+logic+abyss" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Software+%26+Web+Developer;Building+practical+software%2C+one+problem+at+a+time;Ideas+%E2%86%92+Code+%E2%86%92+Working+Software" alt="Typing SVG" />
 </p>
 
+---
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/erliandikasyahputra" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/erliandikasyahputra/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  &nbsp;
+  <a href="https://discord.com/users/1280550815223779370" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  &nbsp;
+  <a href="mailto:syahputraerliandika@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+I build web applications and practical software that solve real problems.
+My work spans full-stack web development, from frontend interfaces to backend APIs and databases.
+
+**Stack**
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="28" alt="TypeScript" title="TypeScript" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="28" alt="JavaScript" title="JavaScript" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" alt="React" title="React" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="28" alt="Next.js" title="Next.js" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="28" alt="PHP" title="PHP" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="28" alt="Laravel" title="Laravel" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="28" alt="Node.js" title="Node.js" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="28" alt="Tailwind CSS" title="Tailwind CSS" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="28" alt="MySQL" title="MySQL" />
+</p>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=erliandikasyahputraa&show_icons=true&theme=nightowl&hide_border=false&count_private=true" height="150" />
-  <img src="https://streak-stats.demolab.com?user=erliandikasyahputraa&theme=nightowl&hide_border=false&border_radius=5" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=erliandikasyahputraa&layout=compact&theme=nightowl&hide_border=true" height="150" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=erliandikasyahputraa&layout=compact&theme=github_dark&hide_border=true&langs_count=6"
+    height="140"
+    alt="Top Languages"
+  />
+  &nbsp;&nbsp;
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=erliandikasyahputraa&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide=issues&rank_icon=github"
+    height="140"
+    alt="GitHub Stats"
+  />
 </div>
 
----
+<br />
 
-<img align="right" height="150" src="https://images.steamusercontent.com/ugc/358399892795809492/9C74F5DBD9490E392F44504E22FD099EADE76E6D/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Guts from Berserk" />
-
----
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" />
-</div>
-
----
-
-<div align="left">
-  <a href="https://www.instagram.com/erliandikasyahputra/" target="_blank" style="margin: 0 10px; text-decoration: none;">
-    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" height="30" />
-  </a>
-  <img width="12" />
-  <a href="https://discord.com/users/1280550815223779370" target="_blank" style="margin: 0 10px; text-decoration: none;">
-    <img src="https://img.icons8.com/fluency/48/discord-logo.png" alt="Discord" height="30" />
-  </a>
-  <img width="12" />
-  <a href="mailto:syahputraerliandika@gmail.com" target="_blank" style="margin: 0 10px; text-decoration: none;">
-    <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail" height="30" />
-  </a>
-  <img width="12" />
-  <a href="https://www.linkedin.com/in/erliandikasyahputra" target="_blank" style="margin: 0 10px; text-decoration: none;">
-    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" height="30" />
-  </a>
-</div>
-
-
-
-
----
-<picture style="display: flex; justify-content: center; align-items: center; margin-top: 20px;">
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Erliandikasyahputraa/Erliandikasyahputraa/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Erliandikasyahputraa/Erliandikasyahputraa/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Erliandikasyahputraa/Erliandikasyahputraa/output/github-contribution-grid-snake.svg" />
