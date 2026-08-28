@@ -81,13 +81,6 @@ The stack adapts. The obsession stays.
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Erliandikasyahputraa/Erliandikasyahputraa/main/dist/activity-graph.svg"
-    alt="GitHub Activity Graph"
-    width="100%"
-  />
-</p>
 
 <p align="center">
 <picture>

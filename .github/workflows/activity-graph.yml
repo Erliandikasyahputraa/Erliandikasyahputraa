@@ -18,13 +18,15 @@ jobs:
       - name: Fetch activity graph SVG
         run: |
           mkdir -p dist
-          curl -s --retry 3 --retry-delay 5 \
-            "https://github-readme-activity-graph.vercel.app/graph?username=Erliandikasyahputraa&theme=tokyo-night&hide_border=true&area=true&area_color=8A2BE2" \
-            -o dist/activity-graph.svg
-          if grep -q "<svg" dist/activity-graph.svg; then
+          HTTP_STATUS=$(curl -s -o dist/activity-graph-tmp.svg -w "%{http_code}" \
+            "https://github-readme-activity-graph.vercel.app/graph?username=Erliandikasyahputraa&theme=tokyo-night&hide_border=true&area=true&area_color=8A2BE2")
+          echo "HTTP Status: $HTTP_STATUS"
+          if [ "$HTTP_STATUS" = "200" ] && grep -q "<svg" dist/activity-graph-tmp.svg; then
+            mv dist/activity-graph-tmp.svg dist/activity-graph.svg
             echo "Activity graph SVG fetched successfully"
           else
-            echo "Failed to fetch a valid SVG, keeping previous version"
+            rm -f dist/activity-graph-tmp.svg
+            echo "Service unavailable (HTTP $HTTP_STATUS) — skipping update"
             exit 0
           fi
 
@@ -32,5 +34,5 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add dist/activity-graph.svg
+          git add dist/activity-graph.svg 2>/dev/null || true
           git diff --quiet && git diff --staged --quiet || (git commit -m "chore: update activity graph" && git push)
