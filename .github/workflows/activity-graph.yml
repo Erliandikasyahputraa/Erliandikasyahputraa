@@ -18,7 +18,7 @@ jobs:
       - name: Fetch activity graph SVG
         run: |
           mkdir -p dist
-          HTTP_STATUS=$(curl.exe -s -o dist/activity-graph-tmp.svg -w "%{http_code}" \
+          HTTP_STATUS=$(curl -s -o dist/activity-graph-tmp.svg -w "%{http_code}" \
             "https://graph-readme.vercel.app/graph?username=Erliandikasyahputraa&theme=tokyo-night&hide_border=true&area=true&area_color=8A2BE2")
           echo "HTTP Status: $HTTP_STATUS"
           if [ "$HTTP_STATUS" = "200" ] && grep -q "<svg" dist/activity-graph-tmp.svg; then
