@@ -1,0 +1,36 @@
+name: Generate Activity Graph
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"  # Runs every 6 hours
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch activity graph SVG
+        run: |
+          mkdir -p dist
+          curl -s --retry 3 --retry-delay 5 \
+            "https://github-readme-activity-graph.vercel.app/graph?username=Erliandikasyahputraa&theme=tokyo-night&hide_border=true&area=true&area_color=8A2BE2" \
+            -o dist/activity-graph.svg
+          if grep -q "<svg" dist/activity-graph.svg; then
+            echo "Activity graph SVG fetched successfully"
+          else
+            echo "Failed to fetch a valid SVG, keeping previous version"
+            exit 0
+          fi
+
+      - name: Commit and push activity graph SVG
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add dist/activity-graph.svg
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: update activity graph" && git push)

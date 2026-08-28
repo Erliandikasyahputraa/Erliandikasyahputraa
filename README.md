@@ -52,13 +52,23 @@ The stack adapts. The obsession stays.
   &nbsp;
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
   &nbsp;
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+  &nbsp;
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
   &nbsp;
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
   &nbsp;
+  <img src="https://img.shields.io/badge/Livewire-4E56A6?style=flat-square&logo=livewire&logoColor=white" alt="Livewire" />
+  &nbsp;
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
   &nbsp;
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/AI%20%2F%20NLP-8A2BE2?style=flat-square&logo=openai&logoColor=white" alt="AI / NLP" />
 </p>
 
 <br/>
@@ -68,6 +78,14 @@ The stack adapts. The obsession stays.
     src="https://raw.githubusercontent.com/Erliandikasyahputraa/Erliandikasyahputraa/main/dist/streak.svg"
     alt="GitHub Streak"
     height="175"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Erliandikasyahputraa/Erliandikasyahputraa/main/dist/activity-graph.svg"
+    alt="GitHub Activity Graph"
+    width="100%"
   />
 </p>
 
