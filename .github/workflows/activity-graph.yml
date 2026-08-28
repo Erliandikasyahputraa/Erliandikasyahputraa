@@ -19,7 +19,7 @@ jobs:
         run: |
           mkdir -p dist
           HTTP_STATUS=$(curl -s -o dist/activity-graph-tmp.svg -w "%{http_code}" \
-            "https://graph-readme.vercel.app/graph?username=Erliandikasyahputraa&theme=tokyo-night&hide_border=true&area=true&area_color=8A2BE2")
+            "https://graph-readme.vercel.app/graph?username=Erliandikasyahputraa&bg_color=161b22&color=f87171&line=ef4444&point=ffffff&area=true&area_color=991b1b&title_color=ff4d4d&hide_border=true")
           echo "HTTP Status: $HTTP_STATUS"
           if [ "$HTTP_STATUS" = "200" ] && grep -q "<svg" dist/activity-graph-tmp.svg; then
             mv dist/activity-graph-tmp.svg dist/activity-graph.svg
